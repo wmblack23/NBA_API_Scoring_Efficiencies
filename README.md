@@ -1,6 +1,6 @@
 # NBA_API_Scoring_Efficiencies
 
-USING LINEAR REGRESSION TO VISUALIZE THE NBA'S MOST - AND LEAST - EFFECIENT SCORERS
+**USING LINEAR REGRESSION TO VISUALIZE THE NBA'S MOST - AND LEAST - EFFECIENT SCORERS.**
 
 There are four sections to this project.  I will walk through each of them here:
 
@@ -16,7 +16,7 @@ For each of the four sections, players were only considered if they had attempte
 
 Of course, it isn't always as simple as saying a player should just shoot less or another should just shoot more.  A player's role is determined by the makeup of that team, and some players (Jordan Clarkson) who show up on the "SHOOT LESS" list, provide a ton of value to their team by taking and making shots, even if it is inneficient.  
 
-As always with data, it's important to understand it tells only a part of the story.
+*As always with data, it's important to understand it tells only a part of the story.*
 
 - Michael Black
 
